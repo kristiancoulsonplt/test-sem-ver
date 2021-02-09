@@ -2,4 +2,4 @@ function log(message) {
   console.log(message);
 }
 
-log("hello");
+log("hello world");
