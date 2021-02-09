@@ -1,0 +1,23 @@
+{
+  "name": "sem-ver-test",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "semantic-release": "^17.3.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristiancoulsonplt/test-sem-ver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristiancoulsonplt/test-sem-ver/issues"
+  },
+  "homepage": "https://github.com/kristiancoulsonplt/test-sem-ver#readme"
+}
