@@ -1,5 +1,5 @@
 {
-  "name": "sem-ver-test",
+  "name": "@kcoulsonplt/sem-ver-test",
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
