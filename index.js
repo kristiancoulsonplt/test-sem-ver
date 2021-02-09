@@ -1,1 +1,5 @@
-console.log("testing new stuff23");
+function log(message) {
+  console.log(message);
+}
+
+log("hello");
