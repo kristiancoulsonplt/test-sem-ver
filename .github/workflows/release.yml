@@ -4,9 +4,6 @@ name: Release
 
 # Controls when the action will run.
 on:
-  pull_request:
-    branches:
-      - main
   push:
     branches:
       - main
