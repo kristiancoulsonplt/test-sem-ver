@@ -4,6 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {},
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "devDependencies": {
     "semantic-release": "^17.3.8"
   },
