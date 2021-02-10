@@ -5,8 +5,11 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
     "@semantic-release/git": "^9.0.0",
     "@semantic-release/github": "^7.2.0",
+    "husky": "^5.0.9",
     "semantic-release": "^17.3.8"
   },
   "scripts": {
@@ -21,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/kristiancoulsonplt/test-sem-ver/issues"
   },
-  "homepage": "https://github.com/kristiancoulsonplt/test-sem-ver#readme"
+  "homepage": "https://github.com/kristiancoulsonplt/test-sem-ver#readme",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
 }
