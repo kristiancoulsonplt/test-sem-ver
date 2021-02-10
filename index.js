@@ -2,7 +2,7 @@ function log(message) {
   console.log(message);
 }
 
-log("hello world 2");
+log("hello world!");
 
 // test
 
