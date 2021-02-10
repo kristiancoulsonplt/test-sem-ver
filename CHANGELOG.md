@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.5...v1.5.6) (2021-02-10)
+
+
+### Bug Fixes
+
+* develop ([#24](https://github.com/kristiancoulsonplt/test-sem-ver/issues/24)) ([de08ebc](https://github.com/kristiancoulsonplt/test-sem-ver/commit/de08ebcc5265f559e4a2a27977e495bcfb694047)), closes [#20](https://github.com/kristiancoulsonplt/test-sem-ver/issues/20) [#22](https://github.com/kristiancoulsonplt/test-sem-ver/issues/22)
+
 ## [1.5.5](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.4...v1.5.5) (2021-02-10)
 
 
