@@ -8,5 +8,4 @@ log("hello world 2");
 
 module.exports = { log };
 
-// test
 //test
