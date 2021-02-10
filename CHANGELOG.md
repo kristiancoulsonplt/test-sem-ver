@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.3...v1.5.4) (2021-02-10)
+
+
+### Bug Fixes
+
+* updated token env ([3ea798a](https://github.com/kristiancoulsonplt/test-sem-ver/commit/3ea798aad61d7589f7238e242741e80430506c29))
+
 ## [1.5.3](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.2...v1.5.3) (2021-02-10)
 
 
