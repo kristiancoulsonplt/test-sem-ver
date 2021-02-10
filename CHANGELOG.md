@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.2...v1.5.3) (2021-02-10)
+
+
+### Bug Fixes
+
+* add new workflow ([1e703e2](https://github.com/kristiancoulsonplt/test-sem-ver/commit/1e703e2b79a1090ab4db62dd77291a0223684a5f))
+
 ## [1.5.2](https://github.com/kristiancoulsonplt/test-sem-ver/compare/v1.5.1...v1.5.2) (2021-02-10)
 
 
