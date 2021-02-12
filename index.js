@@ -2,6 +2,6 @@ function log(message) {
   console.log(message);
 }
 
-log("hello world!");
+log("hello world!!");
 
 module.exports = { log };
