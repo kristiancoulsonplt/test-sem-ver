@@ -15,4 +15,10 @@ jobs:
         with:
           node-version: '14'
       - run: npm install
-      - run: npm test
+      - run: npm run test:c
+
+      - name: Make Badges
+        run: npm run make-badges
+
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v7.1.0
