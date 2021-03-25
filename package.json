@@ -16,7 +16,7 @@
   "scripts": {
     "test": "jest",
     "test:w": "jest --watchAll",
-    "test:c": "jest --coverage --watchAll",
+    "test:c": "jest --coverage",
     "make-badges": "istanbul-badges-readme"
   },
   "jest": {

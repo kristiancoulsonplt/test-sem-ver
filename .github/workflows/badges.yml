@@ -22,3 +22,6 @@ jobs:
 
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7.1.0
+        with:
+          add: 'README.md'
+          message: 'Updated coverage badges [skip ci]'
